@@ -1,0 +1,13 @@
+2023-02-07 14:13:06.448 [info] 
+
+
+
+
+2023-02-07 14:13:06.474 [info] Extension host agent started.
+2023-02-07 14:13:06.522 [info] Migrating extensions from old default profile location file:///home/abishaghimire/.vscode-server/data/User/extensions.json
+2023-02-07 14:13:06.529 [info] Migrated extensions from old default profile location to new location file:///home/abishaghimire/.vscode-server/data/User/extensions.json file:///home/abishaghimire/.vscode-server/extensions/extensions.json
+2023-02-07 14:13:06.568 [info] [127.0.0.1][125d5d5e][ManagementConnection] New connection established.
+2023-02-07 14:13:06.945 [info] [127.0.0.1][19df269b][ExtensionHostConnection] New connection established.
+2023-02-07 14:13:06.950 [info] [127.0.0.1][19df269b][ExtensionHostConnection] <208> Launched Extension Host Process.
+2023-02-07 14:14:08.802 [info] [127.0.0.1][125d5d5e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-02-07 14:14:08.836 [info] [127.0.0.1][19df269b][ExtensionHostConnection] <208> Extension Host Process exited with code: 0, signal: null.

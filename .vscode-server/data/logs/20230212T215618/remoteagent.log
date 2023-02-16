@@ -1,0 +1,31 @@
+2023-02-12 21:56:18.883 [info] 
+
+
+
+
+2023-02-12 21:56:18.977 [info] Extension host agent started.
+2023-02-12 21:56:19.631 [info] [127.0.0.1][553e081c][ManagementConnection] New connection established.
+2023-02-12 21:56:20.843 [info] [127.0.0.1][962b4f00][ExtensionHostConnection] New connection established.
+2023-02-12 21:56:20.960 [info] [127.0.0.1][962b4f00][ExtensionHostConnection] <8035> Launched Extension Host Process.
+2023-02-12 21:56:30.412 [info] Getting Manifest... github.classroom
+2023-02-12 21:56:30.597 [info] Installing extension: github.classroom
+2023-02-12 21:56:31.173 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2023-02-12 21:56:31.384 [info] Getting Manifest... github.vscode-pull-request-github
+2023-02-12 21:56:31.687 [info] Installing extension: ms-vsliveshare.vsliveshare github.classroom
+2023-02-12 21:56:31.687 [info] Installing extension: github.vscode-pull-request-github github.classroom
+2023-02-12 21:56:33.544 [info] Extension signature verification: github.vscode-pull-request-github. Verification status: Verified.
+2023-02-12 21:56:33.695 [info] Extracted extension to /home/abishaghimire/.vscode-server/extensions/.7f3c3081-4b4a-4638-9130-e4b3ea6f5280: github.vscode-pull-request-github
+2023-02-12 21:56:33.714 [info] Renamed to /home/abishaghimire/.vscode-server/extensions/github.vscode-pull-request-github-0.58.1
+2023-02-12 21:56:33.719 [info] Extracting completed. github.vscode-pull-request-github
+2023-02-12 21:56:33.762 [info] Extension signature verification: ms-vsliveshare.vsliveshare. Verification status: Verified.
+2023-02-12 21:56:36.147 [info] Extracted extension to /home/abishaghimire/.vscode-server/extensions/.479c6a9f-0d56-4001-93a4-d62b4325d979: ms-vsliveshare.vsliveshare
+2023-02-12 21:56:36.171 [info] Renamed to /home/abishaghimire/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5828
+2023-02-12 21:56:36.177 [info] Extracting completed. ms-vsliveshare.vsliveshare
+2023-02-12 21:56:36.725 [info] Extracted extension to /home/abishaghimire/.vscode-server/extensions/.dc03f8f1-5282-4d89-8ef5-5f3b22e724ff: github.classroom
+2023-02-12 21:56:36.741 [info] Renamed to /home/abishaghimire/.vscode-server/extensions/github.classroom-0.0.3
+2023-02-12 21:56:36.744 [info] Extracting completed. github.classroom
+2023-02-12 21:56:36.751 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-02-12 21:56:36.751 [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+2023-02-12 21:56:36.751 [info] Extension installed successfully: github.classroom
+2023-02-12 22:07:27.570 [info] [127.0.0.1][553e081c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-02-12 22:07:27.741 [info] [127.0.0.1][962b4f00][ExtensionHostConnection] <8035> Extension Host Process exited with code: 0, signal: null.

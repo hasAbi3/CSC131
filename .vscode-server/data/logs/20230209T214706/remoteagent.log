@@ -1,0 +1,40 @@
+2023-02-09 21:47:06.765 [info] 
+
+
+
+
+2023-02-09 21:47:06.790 [info] Extension host agent started.
+2023-02-09 21:47:07.036 [info] [127.0.0.1][156fb474][ManagementConnection] New connection established.
+2023-02-09 21:47:07.201 [info] [127.0.0.1][8e6d9c7c][ExtensionHostConnection] New connection established.
+2023-02-09 21:47:07.609 [info] [127.0.0.1][8e6d9c7c][ExtensionHostConnection] <129> Launched Extension Host Process.
+2023-02-09 21:48:11.343 [info] Getting Manifest... ms-vscode.cpptools
+2023-02-09 21:48:11.666 [info] Installing extension: ms-vscode.cpptools
+2023-02-09 21:48:14.740 [info] Getting Manifest... franneck94.c-cpp-runner
+2023-02-09 21:48:16.190 [info] Installing extension: franneck94.c-cpp-runner
+2023-02-09 21:48:18.719 [info] Getting Manifest... ms-vscode.cpptools
+2023-02-09 21:48:19.909 [info] Getting Manifest... vadimcn.vscode-lldb
+2023-02-09 21:48:20.271 [info] Waiting for already requested installing extension ms-vscode.cpptools franneck94.c-cpp-runner
+2023-02-09 21:48:20.273 [info] Installing extension: vadimcn.vscode-lldb franneck94.c-cpp-runner
+2023-02-09 21:48:20.893 [info] Extracted extension to /home/abishaghimire/.vscode-server/extensions/.13f85d1a-2189-430b-b070-b5bbddb89750: vadimcn.vscode-lldb
+2023-02-09 21:48:20.904 [info] Renamed to /home/abishaghimire/.vscode-server/extensions/vadimcn.vscode-lldb-1.8.1
+2023-02-09 21:48:20.907 [info] Extracting completed. vadimcn.vscode-lldb
+2023-02-09 21:48:21.963 [info] Extension signature verification: ms-vscode.cpptools. Verification status: Verified.
+2023-02-09 21:48:22.684 [info] Extension signature verification: franneck94.c-cpp-runner. Verification status: Verified.
+2023-02-09 21:48:22.935 [info] Extracted extension to /home/abishaghimire/.vscode-server/extensions/.f2952b90-daba-4b3d-aa7d-2aa477e1db0e: franneck94.c-cpp-runner
+2023-02-09 21:48:22.950 [info] Renamed to /home/abishaghimire/.vscode-server/extensions/franneck94.c-cpp-runner-5.0.0
+2023-02-09 21:48:22.954 [info] Extracting completed. franneck94.c-cpp-runner
+2023-02-09 21:48:23.211 [info] Getting Manifest... kaysonwu.cpptask
+2023-02-09 21:48:23.507 [info] Installing extension: kaysonwu.cpptask
+2023-02-09 21:48:25.003 [info] Extracted extension to /home/abishaghimire/.vscode-server/extensions/.32a1d7ea-6316-40b2-9a11-0ea8320edee5: kaysonwu.cpptask
+2023-02-09 21:48:25.018 [info] Renamed to /home/abishaghimire/.vscode-server/extensions/kaysonwu.cpptask-0.0.1
+2023-02-09 21:48:25.022 [info] Extracting completed. kaysonwu.cpptask
+2023-02-09 21:48:25.029 [info] Extension installed successfully: kaysonwu.cpptask
+2023-02-09 21:48:27.121 [info] Extracted extension to /home/abishaghimire/.vscode-server/extensions/.6892f393-d023-4727-9793-d0cfa7e29cae: ms-vscode.cpptools
+2023-02-09 21:48:27.145 [info] Renamed to /home/abishaghimire/.vscode-server/extensions/ms-vscode.cpptools-1.13.9-linux-x64
+2023-02-09 21:48:27.167 [info] Extracting completed. ms-vscode.cpptools
+2023-02-09 21:48:27.181 [info] Extension installed successfully: ms-vscode.cpptools
+2023-02-09 21:48:27.187 [info] Finished waiting for already requested installing extension ms-vscode.cpptools franneck94.c-cpp-runner
+2023-02-09 21:48:27.188 [info] Extension installed successfully: vadimcn.vscode-lldb
+2023-02-09 21:48:27.188 [info] Extension installed successfully: franneck94.c-cpp-runner
+2023-02-09 21:49:26.289 [info] [127.0.0.1][156fb474][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-02-09 21:49:26.317 [info] [127.0.0.1][8e6d9c7c][ExtensionHostConnection] <129> Extension Host Process exited with code: 0, signal: null.

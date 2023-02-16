@@ -1,0 +1,13 @@
+[Info] /home/abishaghimire/.ssh/config: ENOENT: no such file or directory, open '/home/abishaghimire/.ssh/config'
+[Info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-remote://wsl+ubuntu/home/abishaghimire/.vscode-server/data/User/globalStorage/github.vscode-pull-request-github/temp'
+[Info] Looking for git repository
+[Info] Found 0 repositories during activation
+[Info] Git repository found, initializing review manager and pr tree view.
+[Info] Registering git provider
+[Info] Review> Validate state in progress
+[Info] Review> Validating state...
+[Info] Found GitHub remote for folder /home/abishaghimire
+[Info] Repo state for file:///home/abishaghimire changed.
+[Info] Repo file:///home/abishaghimire has already been setup.
+[Info] Review> no matching pull request metadata found for current branch main
+[Info] Review> no matching pull request metadata found on GitHub for current branch main
